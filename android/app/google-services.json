@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "789989064483",
+    "project_id": "rescue-b09eb",
+    "storage_bucket": "rescue-b09eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789989064483:android:be588102a53a7147a09696",
+        "android_client_info": {
+          "package_name": "com.example.rescuee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789989064483-5j3ijsekimii50q70rq2kih6p68qpr6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAl-p1bKDAM3ooZWwfsccWb5hG3d91xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789989064483-5j3ijsekimii50q70rq2kih6p68qpr6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789989064483-teqhrglpepelegtenqhabbrqktidme8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rescue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
